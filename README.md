@@ -28,3 +28,7 @@ O que adicionamos além do arquivo original está no seguinte trecho:
     <remove name="WebDAVModule" />    
 </modules>    
 ```
+<br>
+
+Saiba mais sobre WebDav:
+<https://www.cloudwards.net/what-is-webdav/>
